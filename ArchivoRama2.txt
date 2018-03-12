@@ -1,2 +1,2 @@
-Archivo de la rama 2
+Archivo original de la rama 2
 Agrego alguna modificación en TEST
