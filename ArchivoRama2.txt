@@ -1,2 +1,7 @@
+<<<<<<< HEAD:ArchivoRama2.txt
 Archivo original de la rama 2
-Agrego alguna modificación en TEST
+Agrego un cambio en TEST
+=======
+Archivo de la rama 2
+Agrego un cambio en TEST
+>>>>>>> test:ArchivoRama2.txt
