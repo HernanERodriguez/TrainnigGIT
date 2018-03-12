@@ -1,0 +1,2 @@
+# TrainnigGIT
+Repositorio para entrenamiento
